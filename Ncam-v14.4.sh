@@ -3,7 +3,7 @@
 # Configuration
 pack="Ncam"
 version="14.4_r0"
-url="https://github.com/Ham-ahmed/softcam-emu/blob/main/"
+url="https://github.com/Ham-ahmed/softcam-emu/blob/main"
 package="enigma2-plugin-softcams-Ncam"
 temp_dir="/tmp"
 
